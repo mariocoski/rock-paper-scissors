@@ -9,7 +9,7 @@ Make sure you have webpack installed globally:
 `$ npm i -g webpack`
 
 Clone repo:
-`$git clone https://github.com/mariocoski/rock-paper-scissors.git`
+`$ git clone https://github.com/mariocoski/rock-paper-scissors.git`
 
 Install npm dependencies:
 
