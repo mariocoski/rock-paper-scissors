@@ -1,0 +1,26 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "Rock-Paper-Scissors",
+  "main": "app.js",
+  "scripts": {
+    "dev-server": "webpack-dev-server",
+    "dev": "webpack --watch"
+  },
+  "author": "Mariusz Rajczakowski",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "path": "^0.12.7",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
