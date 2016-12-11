@@ -1,17 +1,17 @@
 # rock-paper-scissors
-React based app, no css frameworks
-Demo: www.game.mariuszrajczakowski.me
+ES6, React based app, no css frameworks
+Demo: http://bootstrapcalendar.com/game/public/
 
 ## Install:
 
-Make sure you have webpack installed globally:
+Install webpack globally:
 
 `$ npm i -g webpack`
 
-Clone repo:
+Clone this repo:
 `$ git clone https://github.com/mariocoski/rock-paper-scissors.git`
 
-Install npm dependencies:
+Cd in and install npm dependencies:
 
 `$ npm install`
 
