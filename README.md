@@ -1,8 +1,6 @@
 # rock-paper-scissors
 ES6, React based app, no css frameworks
 
-Demo: http://bootstrapcalendar.com/game/public/
-
 ## Install:
 
 Install webpack globally:
